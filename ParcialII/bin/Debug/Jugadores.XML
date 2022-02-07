@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Jugadores>
+  <Jugador Codigo="1">
+    <Nombre>Franco</Nombre>
+    <Apellido>sanchez</Apellido>
+    <DNI>36086876</DNI>
+    <Mail>fsanchez@fraanlnc.com.ar</Mail>
+    <FechaNacimiento>6/12/1993</FechaNacimiento>
+    <Localidad>Temperley</Localidad>
+  </Jugador>
+  <Jugador Codigo="2">
+    <Nombre>Cristina</Nombre>
+    <Apellido>Frangi</Apellido>
+    <DNI>11222333</DNI>
+    <Mail>cristi@frangi.com</Mail>
+    <FechaNacimiento>12/4/1956</FechaNacimiento>
+    <Localidad>Temperley</Localidad>
+  </Jugador>
+  <Jugador Codigo="3">
+    <Nombre>Diego</Nombre>
+    <Apellido>Rodriguez</Apellido>
+    <DNI>33222444</DNI>
+    <Mail>sistemas@rodriguezconsultores.com</Mail>
+    <FechaNacimiento>2/14/1990</FechaNacimiento>
+    <Localidad>Wilde</Localidad>
+  </Jugador>
+  <Jugador Codigo="99">
+    <Nombre>PC</Nombre>
+    <Apellido>A</Apellido>
+    <DNI>123</DNI>
+    <Mail>pc@pc.com</Mail>
+    <FechaNacimiento>01/01/1999</FechaNacimiento>
+    <Localidad>Nube</Localidad>
+  </Jugador>
+</Jugadores>

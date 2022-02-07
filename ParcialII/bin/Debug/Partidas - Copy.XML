@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Partidas>
+  <Partida Codigo_Juego="1" Codigo_Jugador="1">
+    <Ganadas>1</Ganadas>
+    <Perdidas>0</Perdidas>
+    <Empates>0</Empates>
+  </Partida>
+</Partidas>

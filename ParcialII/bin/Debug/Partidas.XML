@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Partidas>
+  <Partida Codigo_Juego="1" Codigo_Jugador="1">
+    <Ganadas>6</Ganadas>
+    <Perdidas>5</Perdidas>
+    <Empates>13</Empates>
+  </Partida>
+  <Partida Codigo_Juego="1" Codigo_Jugador="3">
+    <Ganadas>0</Ganadas>
+    <Perdidas>1</Perdidas>
+    <Empates>2</Empates>
+  </Partida>
+  <Partida Codigo_Juego="1" Codigo_Jugador="2">
+    <Ganadas>1</Ganadas>
+    <Perdidas>2</Perdidas>
+    <Empates>3</Empates>
+  </Partida>
+  <Partida Codigo_Juego="2" Codigo_Jugador="3">
+    <Ganadas>0</Ganadas>
+    <Perdidas>1</Perdidas>
+    <Empates>3</Empates>
+  </Partida>
+  <Partida Codigo_Juego="2" Codigo_Jugador="1">
+    <Ganadas>4</Ganadas>
+    <Perdidas>3</Perdidas>
+    <Empates>3</Empates>
+  </Partida>
+  <Partida Codigo_Juego="2" Codigo_Jugador="2">
+    <Ganadas>2</Ganadas>
+    <Perdidas>1</Perdidas>
+    <Empates>0</Empates>
+  </Partida>
+  <Partida Codigo_Juego="2" Codigo_Jugador="99">
+    <Ganadas>1</Ganadas>
+    <Perdidas>3</Perdidas>
+    <Empates>2</Empates>
+  </Partida>
+  <Partida Codigo_Juego="1" Codigo_Jugador="99">
+    <Ganadas>2</Ganadas>
+    <Perdidas>2</Perdidas>
+    <Empates>2</Empates>
+  </Partida>
+</Partidas>

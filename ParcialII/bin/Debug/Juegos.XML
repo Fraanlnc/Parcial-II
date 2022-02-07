@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Juegos>
+  <Juego Codigo="1">
+    <Nombre>Piedra, papel o tijera</Nombre>
+  </Juego>
+  <Juego Codigo="2">
+    <Nombre>Tateti</Nombre>
+  </Juego>
+</Juegos>
