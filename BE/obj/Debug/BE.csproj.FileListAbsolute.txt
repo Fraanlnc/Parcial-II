@@ -1,0 +1,6 @@
+C:\Users\Fran\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Fran\SEGUNDO AÑO\2DO CUATRI\LUG\Parcial 2\ParcialII\BE\bin\Debug\BE.dll
+C:\Users\Fran\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Fran\SEGUNDO AÑO\2DO CUATRI\LUG\Parcial 2\ParcialII\BE\bin\Debug\BE.pdb
+C:\Users\Fran\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Fran\SEGUNDO AÑO\2DO CUATRI\LUG\Parcial 2\ParcialII\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Fran\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Fran\SEGUNDO AÑO\2DO CUATRI\LUG\Parcial 2\ParcialII\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Fran\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Fran\SEGUNDO AÑO\2DO CUATRI\LUG\Parcial 2\ParcialII\BE\obj\Debug\BE.dll
+C:\Users\Fran\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Fran\SEGUNDO AÑO\2DO CUATRI\LUG\Parcial 2\ParcialII\BE\obj\Debug\BE.pdb
